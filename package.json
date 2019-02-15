@@ -1,0 +1,23 @@
+{
+  "name": "vue-dotenv",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "convict": "^4.4.1",
+    "dotenv": "^6.2.0",
+    "val-loader": "^1.1.1",
+    "vue": "^2.5.22",
+    "vue-class-component": "^6.0.0",
+    "vue-property-decorator": "^7.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "^3.4.0",
+    "@vue/cli-service": "^3.4.0",
+    "typescript": "^3.0.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
